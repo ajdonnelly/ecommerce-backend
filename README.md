@@ -6,3 +6,4 @@ Walkthrough Video: https://drive.google.com/file/d/1iAx3rEeVfZKboDwXLBs9JnUZxucL
 
 URL of the GitHub repository: https://github.com/ajdonnelly/ecommerce-backend
 
+![image](https://user-images.githubusercontent.com/65695895/96067628-d3060080-0e5f-11eb-81d1-c333c3a00447.png)
